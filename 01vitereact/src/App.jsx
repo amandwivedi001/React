@@ -4,8 +4,9 @@
 
 function App() {
 
+  const username = "chai aur  react"
   return (
-    <h1>aman coder</h1>
+    <h1>aman coder {username}</h1>
   )
 }
 
